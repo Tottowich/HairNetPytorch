@@ -1,0 +1,12 @@
+*.convdata
+*.obj
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.vismap
+*.pth
+*.data
+*.txt
+*.xz
+./HairNet_training_data.tar.xz
